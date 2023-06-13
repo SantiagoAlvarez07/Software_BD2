@@ -1,0 +1,97 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container-fluid {
+    text-align: center;
+    background-color: white;
+    color: black;
+    padding: 20px;
+}
+
+.ins {
+    margin-right: 350px;
+}
+
+#texto{
+    margin-right: 1150px;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 35px;
+    color: black;
+}
+
+.solicitud{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: black;
+    padding: 10px;
+    width: 240px;
+}
+.solicitud:hover{
+    color: orangered;
+    text-decoration: underline;
+}
+
+.input-group{
+    border-bottom-right-radius: 20;
+    border-bottom-left-radius: 20;
+    border: 2px solid orangered;
+    border-radius: 8px;
+    width: 250%;
+}
+
+.table{
+    border: 2px solid gray;
+}
+
+#texto2{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.form {
+    background-color: white;
+    border: 2px solid gray;
+    border-radius: 2px;
+    padding: 10px;
+    margin: -30px;
+    margin-bottom: 10px;
+}
+
+.footer {
+    background-color: orangered;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.form-select{
+    margin-bottom: 20px;
+    border-top-left-radius: 20;
+    border-top-right-radius: 20;
+    border: 2px solid orangered;
+}
+
+.form-solicitud input[type="date"] {
+    margin-bottom:20px;
+    border-bottom-right-radius: 20;
+    border-bottom-left-radius: 20;
+    border: 2px solid orangered;
+}
+
+.form-solicitud input[type="text"] {
+    margin-bottom:20px;
+    border-bottom-right-radius: 20;
+    border-bottom-left-radius: 20;
+    border: 2px solid orangered;
+}
+
+.form-dolicitud input[type="datetime"] {
+    margin-bottom: 20px;
+    border-top-left-radius: 20;
+    border-top-right-radius: 20;
+    border: 2px solid orangered;
+}

@@ -1,0 +1,89 @@
+
+
+.navar-superior li a{
+    color: white;
+    cursor: pointer;
+}
+
+.navar-superior li {
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+
+.tituloCerrar{
+    background-color: black;
+}
+
+.navar-superior{
+    background-color: #cd7631;
+    color: black;
+}
+
+.opciones1{
+    color:white;
+}
+
+
+
+.contenedor-botones{
+    background-color: #2f3848;
+}
+
+.content-wrapper {
+    background-color: #cf79181a;
+    margin-left: 0px; 
+
+}
+
+
+.logo{
+    display: block;
+    width: 70%;
+    margin: auto;
+}
+
+.p_small-box{
+    color:white;
+}
+
+.contenedorLogo{
+    box-shadow: 2px 0px 60px white;
+    padding-top: 14px;
+    padding-bottom: 17px;
+    background-color: white;
+}
+
+.small-box.bg-success {
+    background-color: #cd7631!important;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.boton{
+    background-color: white;
+}
+
+.boton i,p{
+    color: black;
+    font-weight: bold;
+}
+
+.small-box>.small-box-footer{
+    background-color: #2f3848;
+}
+
+.main-footer{
+    background-color: #ffffff;
+}
+
+.container-fluid {
+    text-align: center;
+    background-color: white;
+    color: black;
+    padding: 20px;
+}
+

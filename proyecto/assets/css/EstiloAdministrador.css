@@ -1,0 +1,42 @@
+.navar-superior{
+    background-color: #0077b6;
+    color: black;
+}
+
+.opciones1{
+    color:white;
+}
+
+.navar-superior li a{
+    color: white;
+    cursor: pointer;
+}
+
+.contenedor-botones{
+    background-color: white;
+    
+}
+
+.logo{
+    display: block;
+    width: 70%;
+    margin: auto;
+    filter: drop-shadow(2px 2px 5px #570bad9e);
+}
+
+.contenedorLogo{
+    box-shadow: 2px 0px 8px #ff8800;
+    padding-top: 14px;
+    padding-bottom: 17px;
+    background-color: white;
+}
+
+.boton{
+    background-color: #0077b6;
+
+}
+
+.boton i,p{
+    color: white;
+    font-weight: bold;
+}

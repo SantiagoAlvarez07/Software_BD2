@@ -1,0 +1,142 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container-fluid {
+    text-align: center;
+    background-color: white;
+    color: black;
+    padding: 20px;
+}
+
+.ins {
+    margin-right: 350px;
+}
+
+#texto{
+    margin-right: 1150px;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 35px;
+    color: black;
+}
+
+nav ul {
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+}
+
+nav li {
+    display: inline-flex;
+}
+
+nav a {
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: black;
+    padding: 10px;
+    width: 240px;
+}
+
+nav li:hover {
+    background-color: orangered;
+    text-decoration: underline;
+
+}
+
+.form {
+    background-color: white;
+    border: 2px solid gray;
+    border-radius: 2px;
+    padding: 10px;
+    margin: -30px;
+    margin-bottom: 10px;
+}
+
+.form input[type="text"] {
+    margin-bottom: 20px;
+    border-bottom-right-radius: 20;
+    border-bottom-left-radius: 20;
+    border: 2px solid orangered;
+}
+
+.form input[type="number"] {
+    margin-bottom: 20px;
+    border-bottom-right-radius: 20;
+    border-bottom-left-radius: 20;
+    border: 2px solid orangered;
+}
+
+.form-select{
+    margin-bottom: 20px;
+    border-top-left-radius: 20;
+    border-top-right-radius: 20;
+    border: 2px solid orangered;
+}
+
+.form-check{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 20px;
+}
+
+.w-100{
+    background: orangered;
+    border-color: orangered;
+    margin-top: 70px;
+    color: white;
+}
+
+#documents{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.footer {
+    background-color: orangered;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.botonEnviar
+{
+    background: orangered;
+    border-color: orangered;
+    margin-top: 70px;
+    color: white;
+}
+
+.card-body{
+    text-align: center;
+}
+
+.form-select{
+    margin-bottom: 20px;
+    border-top-left-radius: 20;
+    border-top-right-radius: 20;
+    border: 2px solid orangered;
+}
+
+.form-solicitud input[type="date"] {
+    margin-bottom:20px;
+    border-bottom-right-radius: 20;
+    border-bottom-left-radius: 20;
+    border: 2px solid orangered;
+}
+
+.form-solicitud input[type="text"] {
+    margin-bottom:20px;
+    border-bottom-right-radius: 20;
+    border-bottom-left-radius: 20;
+    border: 2px solid orangered;
+}
+
+.form-dolicitud input[type="datetime"] {
+    margin-bottom: 20px;
+    border-top-left-radius: 20;
+    border-top-right-radius: 20;
+    border: 2px solid orangered;
+}
